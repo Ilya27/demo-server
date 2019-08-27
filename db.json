@@ -3,32 +3,38 @@
       {
         "id": 1,
         "name": "Hamburger",
-        "ingredients":["Regular Bun","100% Beef Patty","Ketchup","Pickle Slices","Onions","Mustard"]
+        "ingredients":["Regular Bun","100% Beef Patty","Ketchup","Pickle Slices","Onions","Mustard"],
+        "img":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Hamburger.jpg?$Product_Desktop$"
       },      
       {
         "id": 2,
         "name": "Cheeseburger",
-        "ingredients":["Regular Bun","100% Beef Patty","Pasteurized Process American Cheese","Ketchup","Pickle Slices","Onions","Mustard"]
+        "ingredients":["Regular Bun","100% Beef Patty","Pasteurized Process American Cheese","Ketchup","Pickle Slices","Onions","Mustard"],
+        "img":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Cheeseburger.jpg?$Product_Desktop$"
       },
       {
         "id": 3,
         "name": "McDouble",
-        "ingredients":["Regular Bun","100% Beef Patty X 2","Pasteurized Process American Cheese","Ketchup","Pickle Slices","Onions","Mustard"]
+        "ingredients":["Regular Bun","100% Beef Patty X 2","Pasteurized Process American Cheese","Ketchup","Pickle Slices","Onions","Mustard"],
+        "img":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-McDouble.jpg?$Product_Desktop$"
       },
       {
         "id": 4,
         "name": "Quarter Pounder with Cheese Bacon",
-        "ingredients":["Quarter Pound Bun","Quarter Pound 100% Beef Patty","Pasteurized Process American Cheese","Thick Cut Applewood Smoked Bacon","Ketchup","Pickle Slices","Onions","Mustard"]
+        "ingredients":["Quarter Pound Bun","Quarter Pound 100% Beef Patty","Pasteurized Process American Cheese","Thick Cut Applewood Smoked Bacon","Ketchup","Pickle Slices","Onions","Mustard"],
+        "img":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-qpc-bacon.jpg?$Product_Desktop$"
       },
       {
         "id": 5,
         "name": "Big Mac",
-        "ingredients":["Big Mac Bun","100% Beef Patty","Shredded Lettuce","Big Mac Sauce","Pasteurized Process American Cheese","Pickle Slices","Onions"]
+        "ingredients":["Big Mac Bun","100% Beef Patty","Shredded Lettuce","Big Mac Sauce","Pasteurized Process American Cheese","Pickle Slices","Onions"],
+        "img":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Big-Mac.jpg?$Product_Desktop$"
       },
       {
         "id": 6,
         "name": "McChicken",
-        "ingredients":["McChicken Patty","Regular Bun","Shredded Lettuce","Mayonnaise"]
+        "ingredients":["McChicken Patty","Regular Bun","Shredded Lettuce","Mayonnaise"],
+        "img":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-McChicken.jpg?$Product_Desktop$"
       },
       {
         "id": 7,
