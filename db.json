@@ -1,11 +1,40 @@
 {
-    "posts": [
+    "burgers": [
       {
         "id": 1,
-        "title": "hello"
+        "name": "Hamburger",
+        "ingredients":["Regular Bun","100% Beef Patty","Ketchup","Pickle Slices","Onions","Mustard"]
+      },      
+      {
+        "id": 2,
+        "name": "Cheeseburger",
+        "ingredients":["Regular Bun","100% Beef Patty","Pasteurized Process American Cheese","Ketchup","Pickle Slices","Onions","Mustard"]
+      },
+      {
+        "id": 3,
+        "name": "McDouble",
+        "ingredients":["Regular Bun","100% Beef Patty X 2","Pasteurized Process American Cheese","Ketchup","Pickle Slices","Onions","Mustard"]
+      },
+      {
+        "id": 4,
+        "name": "Quarter Pounder with Cheese Bacon",
+        "ingredients":["Quarter Pound Bun","Quarter Pound 100% Beef Patty","Pasteurized Process American Cheese","Thick Cut Applewood Smoked Bacon","Ketchup","Pickle Slices","Onions","Mustard"]
+      },
+      {
+        "id": 5,
+        "name": "Big Mac",
+        "ingredients":["Big Mac Bun","100% Beef Patty","Shredded Lettuce","Big Mac Sauce","Pasteurized Process American Cheese","Pickle Slices","Onions"]
+      },
+      {
+        "id": 6,
+        "name": "McChicken",
+        "ingredients":["McChicken Patty","Regular Bun","Shredded Lettuce","Mayonnaise"]
+      },
+      {
+        "id": 7,
+        "name": "Filet-O-Fish",
+        "ingredients":["Fish Filet Patty","Regular Bun","Tartar Sauce","Pasteurized Process American Cheese Half Slice"],
+        "img":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
       }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+    ]
   }
